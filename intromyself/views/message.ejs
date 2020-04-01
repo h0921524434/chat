@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="/css/style/message.css" rel="stylesheet">
+        <title>陳怡昌的自我介紹-留言</title>
+    </head>
+    <body>
+    </body>
+    <div>
+        <h1>留言給我吧</h1>
+    </div>
+    <div id="message_word">
+        <form href="http://127.0.0.1:3000/message/send?account=$account&mail=$mail&inputtext=$inputtext" action="http://127.0.0.1:3000/message/send" method="get">
+            姓名: <input id="name" type="text" name="account">  <br>
+            信箱: <input id="mail" type="email" name="mail">  <br>
+            留言: <textarea id="text" rows="2" name="inputtext" cols="20"></textarea> <br>
+            <input id="btn" type="button" value="留言" onclick="submit()">
+        </form>
+    </div>
+</html>

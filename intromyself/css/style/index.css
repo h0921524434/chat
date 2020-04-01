@@ -1,0 +1,114 @@
+h1{
+    position:absolute;
+    left: 30%;
+    background-color: snow;
+    color: rgb(0, 0, 0);
+    text-align:center; 
+    width: 500px;
+}
+body{
+    background-image: url('../image/我自己_180718_0310.jpg');
+    background-size: 50%;
+    background-position-x: 50%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+}
+#born_word
+{
+    position:absolute;
+    left:150px;
+    top:60px;
+}
+#btn_born{
+    position:absolute;
+    left:45px;
+    top:80px;
+    background-image: url('../image/born.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+
+
+#school
+{
+    position:absolute;
+    left:-1px;
+    top:300px;
+}
+#school_word
+{
+    position:absolute;
+    width: 50px;
+    left:150px;
+    top:60px;
+}
+#btn_school{
+    position:absolute;
+    left:45px;
+    top:80px;
+    background-image: url('../image/main@2x.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+
+#work
+{
+    position:absolute;
+    right:350px;
+}
+#work_word
+{
+    position:absolute;
+    width: 50px;
+    left:150px;
+    top:60px;
+}
+#btn_work{
+    position:absolute;
+    left:45px;
+    top:80px;
+    background-image: url('../image/main@2x1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+
+#dream
+{
+    position:absolute;
+    right:350px;
+    top:300px;
+}
+#dream_word
+{
+    position:absolute;
+    width: 50px;
+    left:150px;
+    top:60px;
+}
+#btn_dream{
+    position:absolute;
+    left:45px;
+    top:80px;
+    background-image: url('../image/images.jpg');
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+}
+
+#btn_message{
+    position:absolute;
+    left:600px;
+    top:530px;
+    background-image: url('../image/網站文章圖片模板.jpg');
+    background-size: 150px 100px;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 100px;
+}

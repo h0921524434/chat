@@ -1,0 +1,28 @@
+body{
+    background-image: url('../image/我自己_180718_0310.jpg');
+    background-size: 50%;
+    background-position-x: 50%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+}
+h1{
+    position:absolute;
+    left: 35%;
+    background-color: snow;
+    color: rgb(0, 0, 0);
+    text-align:center; 
+    width: 400px;
+}
+#born_word
+{
+    height: 270px;
+    width: 500px;
+    font-weight:bold;
+    font-synthesis: inherit;
+    font-size: 35px;
+    position:absolute;
+    -webkit-text-stroke: 0.3px white;
+    -webkit-text-fill-color:black;
+    left: 440px;
+    top:350px;
+}

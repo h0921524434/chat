@@ -1,0 +1,26 @@
+body{
+    background-image: url('../image/我自己_180718_0310.jpg');
+    background-size: 50%;
+    background-position-x: 50%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+}
+h1{
+    position:absolute;
+    left: 35%;
+    background-color: snow;
+    color: rgb(0, 0, 0);
+    text-align:center; 
+    width: 400px;
+}
+#dream_word
+{
+    position:absolute;
+    background-image: url('../image/3f9a886f-5c7c-4d11-947d-7484c153e520_m.jpg');
+    height: 250px;
+    width: 500px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    left: 440px;
+    top:350px;
+}

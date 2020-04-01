@@ -1,0 +1,55 @@
+body{
+    background-image: url('../image/我自己_180718_0310.jpg');
+    background-size: 50%;
+    background-position-x: 50%;
+    background-position-y: 30%;
+    background-repeat: no-repeat;
+}
+h1{
+    position:absolute;
+    left: 35%;
+    background-color: snow;
+    color: rgb(0, 0, 0);
+    text-align:center; 
+    width: 400px;
+}
+#message_word
+{
+    position:absolute;
+    font-weight:bold;
+    font-synthesis: inherit;
+    font-size: 35px;
+    height: 500px;
+    width: 400px;
+    -webkit-text-stroke: 0.3px white;
+    -webkit-text-fill-color:black;
+    left: 478px;
+    top:100px;
+}
+#name
+{
+    font-size: 30px;
+    height: 30px;
+    width: 300px;
+}
+#mail
+{
+    font-size: 30px;
+    height: 30px;
+    width: 300px;
+}
+#text
+{
+    font-size: 20px;
+    height: 350px;
+    width: 400px;
+}
+#btn
+{
+    position:absolute;
+    font-size: 20px;
+    -webkit-text-stroke: 0.3px black;
+    -webkit-text-fill-color: black;
+    left: 180px;
+}
+
